@@ -13,7 +13,7 @@ Para comenzar, asegúrate de tener Node.js instalado en tu máquina. Luego, sigu
    ```bash
    npm install
 
-3. es necesario tener docker para que todas las aplicaciones se puedan comunicar entre si, para esos crearemos las imagenes con los archivos dockerfile que ya estan definidos
+3. es necesario tener docker para que todas las aplicaciones se puedan comunicar entre si, para esos crearemos las imagenes con los archivos dockerfile que ya estan definidos en cada uno de los proyectos
 
 4. una vez que tengamos todas las imagenes tenemos que crear una red local con docker y que todas las aplicaciones se conecten ahi para que puedan comunicarse
 
