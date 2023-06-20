@@ -8,7 +8,7 @@
 Para comenzar, asegúrate de tener Node.js instalado en tu máquina. Luego, sigue estos pasos:
 
 1. Clona este repositorio en tu máquina local.
-2. Ejecuta el siguiente comando para instalar todas las dependencias necesarias en cada uno de los proyecto:
+2. Ejecuta el siguiente comando para instalar todas las dependencias necesarias en cada uno de los proyectos:
 
    ```bash
    npm install
