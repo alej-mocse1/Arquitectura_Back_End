@@ -17,7 +17,7 @@ Para comenzar, asegúrate de tener Node.js instalado en tu máquina. Luego, sigu
 
 4. una vez que tengamos todas las imagenes tenemos que crear una red local con docker y que todas las aplicaciones se conecten ahi para que puedan comunicarse entre si
 
-5.  una vez que tenemos nuestros contenedores comunicandose entre si con la red que creamos podemos hacer peticiones get a las rutas definidas en el gateway y este las va a redireccionar a cada uno de los proyectos(dependiendo de a que ruta se llame), cada uno de estos proyectos va a realizar una consulta a la base de datos que a su vez esta manejando su propia logica en su proyecto individual
+5.  una vez que tenemos nuestros contenedores comunicandose entre si con la red que creamos podemos hacer peticiones get a las rutas definidas en el gateway y este las va a redireccionar a cada uno de los proyectos(dependiendo de a que ruta se llame), cada uno de estos proyectos va a realizar una consulta a la base de datos que a su vez esta manejando su propia logica ya que tambien es un proyecto individual
 
 
 ## Contribución
